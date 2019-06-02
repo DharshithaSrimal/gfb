@@ -1,0 +1,177 @@
+[D 02:24:57.723 LabApp] Searching ['/home/odoo', '/home/odoo/.jupyter', '/usr/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter'] for config files
+[D 02:24:57.724 LabApp] Looking for jupyter_config in /etc/jupyter
+[D 02:24:57.724 LabApp] Looking for jupyter_config in /usr/local/etc/jupyter
+[D 02:24:57.724 LabApp] Looking for jupyter_config in /usr/etc/jupyter
+[D 02:24:57.724 LabApp] Looking for jupyter_config in /home/odoo/.jupyter
+[D 02:24:57.724 LabApp] Looking for jupyter_config in /home/odoo
+[D 02:24:57.725 LabApp] Looking for jupyter_notebook_config in /etc/jupyter
+[D 02:24:57.726 LabApp] Looking for jupyter_notebook_config in /usr/local/etc/jupyter
+[D 02:24:57.726 LabApp] Looking for jupyter_notebook_config in /usr/etc/jupyter
+[D 02:24:57.726 LabApp] Looking for jupyter_notebook_config in /home/odoo/.jupyter
+[D 02:24:57.726 LabApp] Loaded config file: /home/odoo/.jupyter/jupyter_notebook_config.py
+[D 02:24:57.727 LabApp] Looking for jupyter_notebook_config in /home/odoo
+[D 02:24:58.818 LabApp] Paths used for configuration of jupyter_notebook_config: 
+    	/etc/jupyter/jupyter_notebook_config.json
+[D 02:24:58.818 LabApp] Paths used for configuration of jupyter_notebook_config: 
+    	/usr/local/etc/jupyter/jupyter_notebook_config.d/jupyterlab.json
+    	/usr/local/etc/jupyter/jupyter_notebook_config.d/odoo_paas.json
+    	/usr/local/etc/jupyter/jupyter_notebook_config.json
+[D 02:24:58.819 LabApp] Paths used for configuration of jupyter_notebook_config: 
+    	/usr/etc/jupyter/jupyter_notebook_config.json
+[D 02:24:58.819 LabApp] Paths used for configuration of jupyter_notebook_config: 
+    	/home/odoo/.jupyter/jupyter_notebook_config.json
+[I 02:24:58.825 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.6/dist-packages/jupyterlab
+[I 02:24:58.825 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 02:24:58.827 LabApp] odoo_paas module enabled!
+[W 02:24:58.828 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 02:24:58.832 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.6/dist-packages/jupyterlab
+[I 02:24:58.832 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 02:24:58.833 LabApp] Serving notebooks from local directory: /home/odoo
+[I 02:24:58.833 LabApp] The Jupyter Notebook is running at:
+[I 02:24:58.833 LabApp] http://(dharshithasrimal-gfb-master-424633 or 127.0.0.1):8888/odoo-sh/editor/
+[I 02:24:58.833 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 02:24:58.838 LabApp] No web browser found: could not locate runnable browser.
+[I 02:24:58.896 LabApp] 302 GET /odoo-sh/editor (10.0.77.244) 1.03ms
+[C 02:27:07.750 LabApp] received signal 15, stopping
+[I 02:27:07.751 LabApp] Shutting down 0 kernels
+[D 02:39:01.869 LabApp] Searching ['/home/odoo', '/home/odoo/.jupyter', '/usr/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter'] for config files
+[D 02:39:01.870 LabApp] Looking for jupyter_config in /etc/jupyter
+[D 02:39:01.870 LabApp] Looking for jupyter_config in /usr/local/etc/jupyter
+[D 02:39:01.871 LabApp] Looking for jupyter_config in /usr/etc/jupyter
+[D 02:39:01.871 LabApp] Looking for jupyter_config in /home/odoo/.jupyter
+[D 02:39:01.871 LabApp] Looking for jupyter_config in /home/odoo
+[D 02:39:01.872 LabApp] Looking for jupyter_notebook_config in /etc/jupyter
+[D 02:39:01.872 LabApp] Looking for jupyter_notebook_config in /usr/local/etc/jupyter
+[D 02:39:01.872 LabApp] Looking for jupyter_notebook_config in /usr/etc/jupyter
+[D 02:39:01.872 LabApp] Looking for jupyter_notebook_config in /home/odoo/.jupyter
+[D 02:39:01.872 LabApp] Loaded config file: /home/odoo/.jupyter/jupyter_notebook_config.py
+[D 02:39:01.873 LabApp] Looking for jupyter_notebook_config in /home/odoo
+[D 02:39:02.971 LabApp] Paths used for configuration of jupyter_notebook_config: 
+    	/etc/jupyter/jupyter_notebook_config.json
+[D 02:39:02.971 LabApp] Paths used for configuration of jupyter_notebook_config: 
+    	/usr/local/etc/jupyter/jupyter_notebook_config.d/jupyterlab.json
+    	/usr/local/etc/jupyter/jupyter_notebook_config.d/odoo_paas.json
+    	/usr/local/etc/jupyter/jupyter_notebook_config.json
+[D 02:39:02.973 LabApp] Paths used for configuration of jupyter_notebook_config: 
+    	/usr/etc/jupyter/jupyter_notebook_config.json
+[D 02:39:02.973 LabApp] Paths used for configuration of jupyter_notebook_config: 
+    	/home/odoo/.jupyter/jupyter_notebook_config.json
+[I 02:39:02.979 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.6/dist-packages/jupyterlab
+[I 02:39:02.979 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 02:39:02.981 LabApp] odoo_paas module enabled!
+[W 02:39:02.982 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 02:39:02.986 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.6/dist-packages/jupyterlab
+[I 02:39:02.987 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 02:39:02.987 LabApp] Serving notebooks from local directory: /home/odoo
+[I 02:39:02.987 LabApp] The Jupyter Notebook is running at:
+[I 02:39:02.987 LabApp] http://(dharshithasrimal-gfb-master-424633 or 127.0.0.1):8888/odoo-sh/editor/
+[I 02:39:02.987 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 02:39:02.993 LabApp] No web browser found: could not locate runnable browser.
+[I 02:39:02.996 LabApp] 302 GET /odoo-sh/editor (10.0.78.82) 1.02ms
+[I 02:39:03.691 LabApp] 302 GET /odoo-sh/editor/lab (10.0.78.82) 1.47ms
+[D 02:39:06.841 LabApp] Using contents: services/contents
+[D 02:39:06.868 LabApp] Path base/images/favicon.ico served from /usr/local/lib/python3.6/dist-packages/notebook/static/base/images/favicon.ico
+[D 02:39:06.869 LabApp] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css
+[D 02:39:06.869 LabApp] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/jquery-typeahead/dist/jquery.typeahead.min.css
+[D 02:39:06.869 LabApp] Path style/style.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/style/style.min.css
+[D 02:39:06.870 LabApp] Path auth/css/override.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/auth/css/override.css
+[D 02:39:06.870 LabApp] Path components/es6-promise/promise.min.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/es6-promise/promise.min.js
+[D 02:39:06.870 LabApp] Path components/preact/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/preact/index.js
+[D 02:39:06.871 LabApp] Path components/proptypes/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/proptypes/index.js
+[D 02:39:06.871 LabApp] Path components/preact-compat/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/preact-compat/index.js
+[D 02:39:06.871 LabApp] Path components/requirejs/require.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/requirejs/require.js
+[D 02:39:06.871 LabApp] Path base/images/logo.png served from /usr/local/lib/python3.6/dist-packages/notebook/static/base/images/logo.png
+[D 02:39:06.872 LabApp] 200 GET /odoo-sh/editor/login?next=%2Fodoo-sh%2Feditor%2Flab?next=%2Fodoo-sh%2Feditor%2Flab (10.0.78.82) 33.37ms
+[I 02:39:06.878 LabApp] 302 POST /odoo-sh/editor/login?next=%2Fodoo-sh%2Feditor%2Flab (10.0.78.82) 1.57ms
+[D 02:39:07.841 LabApp] Using contents: services/contents
+[D 02:39:07.846 LabApp] 200 GET /odoo-sh/editor/lab (10.0.78.82) 6.56ms
+[D 02:39:08.080 LabApp] Path vendors~main.ad5d7e33603c0b7ea743.js served from /usr/local/share/jupyter/lab/static/vendors~main.ad5d7e33603c0b7ea743.js
+[D 02:39:08.104 LabApp] 200 GET /odoo-sh/editor/lab/static/vendors%7Emain.ad5d7e33603c0b7ea743.js (10.0.78.82) 25.11ms
+[D 02:39:08.411 LabApp] Path main.8ac15ac7b7224f263111.js served from /usr/local/share/jupyter/lab/static/main.8ac15ac7b7224f263111.js
+[D 02:39:08.412 LabApp] 200 GET /odoo-sh/editor/lab/static/main.8ac15ac7b7224f263111.js (10.0.78.82) 2.26ms
+[D 02:39:10.496 LabApp] Found kernel python2 in /usr/local/share/jupyter/kernels
+[D 02:39:10.496 LabApp] Found kernel odoo in /usr/local/share/jupyter/kernels
+[D 02:39:10.496 LabApp] Found kernel python3 in /usr/local/share/jupyter/kernels
+[D 02:39:10.500 LabApp] 200 GET /odoo-sh/editor/api/kernelspecs?1559443150909 (10.0.78.82) 6.27ms
+[D 02:39:10.503 LabApp] 200 GET /odoo-sh/editor/api/terminals?1559443150911 (10.0.78.82) 1.24ms
+[D 02:39:10.643 LabApp] 200 GET /odoo-sh/editor/lab/api/settings/%40jupyterlab/application-extension%3Asidebar?1559443150950 (10.0.78.82) 3.50ms
+[D 02:39:10.664 LabApp] 200 GET /odoo-sh/editor/lab/api/settings/%40jupyterlab/shortcuts-extension%3Aplugin?1559443150952 (10.0.78.82) 18.20ms
+[D 02:39:10.752 LabApp] 200 GET /odoo-sh/editor/lab/api/settings/%40jupyterlab/docmanager-extension%3Aplugin?1559443150956 (10.0.78.82) 2.62ms
+[D 02:39:10.760 LabApp] 200 GET /odoo-sh/editor/lab/api/settings/%40jupyterlab/apputils-extension%3Athemes?1559443150958 (10.0.78.82) 3.51ms
+[D 02:39:10.762 LabApp] 200 GET /odoo-sh/editor/static/base/images/favicon.ico (10.0.78.82) 1.42ms
+[D 02:39:10.767 LabApp] 200 GET /odoo-sh/editor/api/sessions?1559443151043 (10.0.78.82) 4.24ms
+[D 02:39:10.921 LabApp] Path @jupyterlab/theme-dark-extension/index.css served from /usr/local/share/jupyter/lab/themes/@jupyterlab/theme-dark-extension/index.css
+[D 02:39:10.924 LabApp] 200 GET /odoo-sh/editor/lab/api/themes/%40jupyterlab/theme-dark-extension/index.css (10.0.78.82) 4.56ms
+[D 02:39:11.535 LabApp] 200 GET /odoo-sh/editor/api/contents/?content=1&1559443151887 (10.0.78.82) 5.89ms
+[D 02:39:11.547 LabApp] 200 GET /odoo-sh/editor/lab/api/settings/%40jupyterlab/extensionmanager-extension%3Aplugin?1559443151926 (10.0.78.82) 4.17ms
+[D 02:39:11.549 LabApp] 200 GET /odoo-sh/editor/lab/api/settings/%40jupyterlab/notebook-extension%3Atracker?1559443151971 (10.0.78.82) 5.27ms
+[D 02:39:11.675 LabApp] 200 GET /odoo-sh/editor/api/nbconvert?1559443151975 (10.0.78.82) 125.05ms
+[D 02:39:11.680 LabApp] 200 GET /odoo-sh/editor/lab/api/settings/%40jupyterlab/fileeditor-extension%3Aplugin?1559443151986 (10.0.78.82) 3.87ms
+[D 02:39:11.745 LabApp] 200 GET /odoo-sh/editor/api/nbconvert?1559443152083 (10.0.78.82) 66.91ms
+[D 02:39:11.749 LabApp] 200 GET /odoo-sh/editor/lab/api/settings/%40jupyterlab/codemirror-extension%3Acommands?1559443152093 (10.0.78.82) 3.66ms
+[D 02:39:11.750 LabApp] 200 GET /odoo-sh/editor/api/sessions?1559443152105 (10.0.78.82) 3.32ms
+[W 02:39:11.781 LabApp] 404 GET /odoo-sh/editor/lab/api/workspaces/odoo-sh/editor/lab?1559443152193 (10.0.78.82): Workspace 'odoo-sh/editor/lab' ('odoo-sheditorlab-c8c6') not found
+[W 02:39:11.781 LabApp] Workspace 'odoo-sh/editor/lab' ('odoo-sheditorlab-c8c6') not found
+[W 02:39:11.782 LabApp] 404 GET /odoo-sh/editor/lab/api/workspaces/odoo-sh/editor/lab?1559443152193 (10.0.78.82) 2.44ms referer=https://dharshithasrimal-gfb-master-424633.dev.odoo.com/odoo-sh/editor/lab
+[D 02:39:11.927 LabApp] Serving kernel resource from: /usr/local/share/jupyter/kernels/python3
+[D 02:39:11.928 LabApp] 200 GET /odoo-sh/editor/kernelspecs/python3/logo-64x64.png (10.0.78.82) 3.89ms
+[D 02:39:11.929 LabApp] Serving kernel resource from: /usr/local/share/jupyter/kernels/odoo
+[D 02:39:11.930 LabApp] 200 GET /odoo-sh/editor/kernelspecs/odoo/logo-64x64.png (10.0.78.82) 4.41ms
+[D 02:39:11.932 LabApp] Serving kernel resource from: /usr/local/share/jupyter/kernels/python2
+[D 02:39:11.932 LabApp] 200 GET /odoo-sh/editor/kernelspecs/python2/logo-64x64.png (10.0.78.82) 2.01ms
+[I 02:39:11.975 LabApp] Node v8.10.0
+    
+[I 02:39:11.983 LabApp] > /usr/bin/npm pack /usr/local/share/jupyter/lab/extensions/odoo_paas
+[D 02:39:12.242 LabApp] Path 6bff3e88b36ec5d9ce1d86a96b7769eb.png served from /usr/local/share/jupyter/lab/static/6bff3e88b36ec5d9ce1d86a96b7769eb.png
+[D 02:39:12.243 LabApp] 200 GET /odoo-sh/editor/lab/static/6bff3e88b36ec5d9ce1d86a96b7769eb.png (10.0.78.82) 3.09ms
+[D 02:39:12.482 LabApp] 204 PUT /odoo-sh/editor/lab/api/workspaces/odoo-sh/editor/lab?1559443152848 (10.0.78.82) 2.43ms
+[I 02:39:13.001 LabApp] Build is up to date
+[D 02:39:13.002 LabApp] 200 GET /odoo-sh/editor/lab/api/build?1559443151867 (10.0.78.82) 1482.09ms
+[D 02:39:19.612 LabApp] 204 PUT /odoo-sh/editor/lab/api/workspaces/odoo-sh/editor/lab?1559443160012 (10.0.78.82) 2.08ms
+[D 02:39:20.514 LabApp] 200 GET /odoo-sh/editor/api/sessions?1559443160913 (10.0.78.82) 2.07ms
+[D 02:39:20.516 LabApp] 200 GET /odoo-sh/editor/api/terminals?1559443160917 (10.0.78.82) 1.27ms
+[D 02:39:21.483 LabApp] 200 GET /odoo-sh/editor/api/contents/?content=1&1559443161895 (10.0.78.82) 3.27ms
+[C 02:41:22.068 LabApp] received signal 15, stopping
+[I 02:41:22.070 LabApp] Shutting down 0 kernels
+[D 03:29:41.641 LabApp] Searching ['/home/odoo', '/home/odoo/.jupyter', '/usr/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter'] for config files
+[D 03:29:41.642 LabApp] Looking for jupyter_config in /etc/jupyter
+[D 03:29:41.642 LabApp] Looking for jupyter_config in /usr/local/etc/jupyter
+[D 03:29:41.642 LabApp] Looking for jupyter_config in /usr/etc/jupyter
+[D 03:29:41.642 LabApp] Looking for jupyter_config in /home/odoo/.jupyter
+[D 03:29:41.642 LabApp] Looking for jupyter_config in /home/odoo
+[D 03:29:41.643 LabApp] Looking for jupyter_notebook_config in /etc/jupyter
+[D 03:29:41.643 LabApp] Looking for jupyter_notebook_config in /usr/local/etc/jupyter
+[D 03:29:41.643 LabApp] Looking for jupyter_notebook_config in /usr/etc/jupyter
+[D 03:29:41.643 LabApp] Looking for jupyter_notebook_config in /home/odoo/.jupyter
+[D 03:29:41.644 LabApp] Loaded config file: /home/odoo/.jupyter/jupyter_notebook_config.py
+[D 03:29:41.644 LabApp] Looking for jupyter_notebook_config in /home/odoo
+[D 03:29:42.726 LabApp] Paths used for configuration of jupyter_notebook_config: 
+    	/etc/jupyter/jupyter_notebook_config.json
+[D 03:29:42.726 LabApp] Paths used for configuration of jupyter_notebook_config: 
+    	/usr/local/etc/jupyter/jupyter_notebook_config.d/jupyterlab.json
+    	/usr/local/etc/jupyter/jupyter_notebook_config.d/odoo_paas.json
+    	/usr/local/etc/jupyter/jupyter_notebook_config.json
+[D 03:29:42.727 LabApp] Paths used for configuration of jupyter_notebook_config: 
+    	/usr/etc/jupyter/jupyter_notebook_config.json
+[D 03:29:42.727 LabApp] Paths used for configuration of jupyter_notebook_config: 
+    	/home/odoo/.jupyter/jupyter_notebook_config.json
+[I 03:29:42.734 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.6/dist-packages/jupyterlab
+[I 03:29:42.734 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 03:29:42.736 LabApp] odoo_paas module enabled!
+[W 03:29:42.737 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 03:29:42.741 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.6/dist-packages/jupyterlab
+[I 03:29:42.741 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 03:29:42.742 LabApp] Serving notebooks from local directory: /home/odoo
+[I 03:29:42.742 LabApp] The Jupyter Notebook is running at:
+[I 03:29:42.742 LabApp] http://(dharshithasrimal-gfb-master-424633 or 127.0.0.1):8888/odoo-sh/editor/
+[I 03:29:42.742 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 03:29:42.747 LabApp] No web browser found: could not locate runnable browser.
+[I 03:29:42.750 LabApp] 302 GET /odoo-sh/editor (10.0.79.64) 1.04ms
+[D 03:29:42.883 LabApp] Using contents: services/contents
+[D 03:29:42.889 LabApp] 200 GET /odoo-sh/editor/lab (10.0.79.64) 7.96ms
+[D 03:29:43.134 LabApp] Path vendors~main.ad5d7e33603c0b7ea743.js served from /usr/local/share/jupyter/lab/static/vendors~main.ad5d7e33603c0b7ea743.js
+[D 03:29:43.137 LabApp] Path main.8ac15ac7b7224f263111.js served from /usr/local/share/jupyter/lab/static/main.8ac15ac7b7224f263111.js
+[D 03:29:43.138 LabApp] 200 GET /odoo-sh/editor/lab/static/main.8ac15ac7b7224f263111.js (10.0.79.64) 1.77ms
+[D 03:29:43.165 LabApp] 200 GET /odoo-sh/editor/lab/static/vendors%7Emain.ad5d7e33603c0b7ea743.js (10.0.79.64) 31.92ms
+[C 03:31:52.283 LabApp] received signal 15, stopping
+[I 03:31:52.284 LabApp] Shutting down 0 kernels

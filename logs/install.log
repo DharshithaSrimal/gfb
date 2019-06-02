@@ -1,0 +1,171 @@
+2019-06-01 09:16:26,086 7 INFO ? odoo: Odoo version 12.0 
+2019-06-01 09:16:26,086 7 INFO ? odoo: Using configuration file at /home/odoo/.config/odoo/odoo.conf 
+2019-06-01 09:16:26,086 7 INFO ? odoo: addons paths: ['/home/odoo/data/addons/12.0', '/home/odoo/src/odoo/addons', '/home/odoo/src/odoo/odoo/addons', '/home/odoo/src/enterprise', '/home/odoo/src/themes'] 
+2019-06-01 09:16:26,087 7 INFO ? odoo: database: p_dharshithasrimal_gfb_master_424633@192.168.1.1:5432 
+2019-06-01 09:16:26,104 7 INFO ? odoo: Could not determine if database dharshithasrimal-gfb-master-424633 exists, skipping auto-creation: permission denied for relation pg_database
+ 
+2019-06-01 09:16:26,333 7 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2019-06-01 09:16:26,742 7 INFO ? odoo.modules.loading: init db 
+2019-06-01 09:16:28,577 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading 1 modules... 
+2019-06-01 09:16:28,764 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module base: creating or updating database tables 
+2019-06-01 09:16:29,138 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Computing parent_path for table ir_ui_menu... 
+2019-06-01 09:16:30,261 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Computing parent_path for table res_partner_category... 
+2019-06-01 09:16:30,941 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of ir.model.fields.relation_field_id 
+2019-06-01 09:16:30,948 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of ir.model.fields.related_field_id 
+2019-06-01 09:16:31,296 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of ir.actions.server.model_name 
+2019-06-01 09:16:31,428 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of ir.attachment.res_name 
+2019-06-01 09:16:31,430 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of ir.attachment.res_model_name 
+2019-06-01 09:16:31,456 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of ir.cron.cron_name 
+2019-06-01 09:16:31,567 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of ir.rule.global 
+2019-06-01 09:16:31,794 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of ir.module.module.menus_by_module 
+2019-06-01 09:16:31,797 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of ir.module.module.reports_by_module 
+2019-06-01 09:16:31,799 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of ir.module.module.views_by_module 
+2019-06-01 09:16:32,032 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of res.partner.display_name 
+2019-06-01 09:16:32,056 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of res.partner.partner_share 
+2019-06-01 09:16:32,060 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of res.partner.commercial_partner_id 
+2019-06-01 09:16:32,061 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of res.partner.commercial_company_name 
+2019-06-01 09:16:32,108 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of res.partner.bank.sanitized_acc_number 
+2019-06-01 09:16:32,178 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of res.currency.decimal_places 
+2019-06-01 09:16:32,229 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of res.company.logo_web 
+2019-06-01 09:16:32,247 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of res.company.email 
+2019-06-01 09:16:32,248 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of res.company.phone 
+2019-06-01 09:16:32,345 7 INFO dharshithasrimal-gfb-master-424633 odoo.models: Storing computed values of res.users.share 
+2019-06-01 09:16:32,940 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res.lang.csv 
+2019-06-01 09:16:33,076 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_lang_data.xml 
+2019-06-01 09:16:33,102 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_partner_data.xml 
+2019-06-01 09:16:33,418 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_company_data.xml 
+2019-06-01 09:16:33,462 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_users_data.xml 
+2019-06-01 09:16:33,690 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2019-06-01 09:16:33,709 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_currency_data.xml 
+2019-06-01 09:16:34,638 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_country_data.xml 
+2019-06-01 09:16:38,380 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2019-06-01 09:16:38,422 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/security/base_groups.xml 
+2019-06-01 09:16:39,065 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/security/base_security.xml 
+2019-06-01 09:16:39,339 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/base_menus.xml 
+2019-06-01 09:16:39,590 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/res_config_views.xml 
+2019-06-01 09:16:39,646 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res.country.state.csv 
+2019-06-01 09:16:40,310 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2019-06-01 09:16:40,861 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2019-06-01 09:16:40,975 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2019-06-01 09:16:41,157 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2019-06-01 09:16:41,264 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2019-06-01 09:16:41,378 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_model_views.xml 
+2019-06-01 09:16:42,048 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2019-06-01 09:16:42,183 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2019-06-01 09:16:42,297 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2019-06-01 09:16:42,412 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_translation_views.xml 
+2019-06-01 09:16:42,546 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2019-06-01 09:16:42,679 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2019-06-01 09:16:42,894 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_default_views.xml 
+2019-06-01 09:16:43,012 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2019-06-01 09:16:43,037 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/report/ir_model_report.xml 
+2019-06-01 09:16:43,051 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2019-06-01 09:16:43,091 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2019-06-01 09:16:43,198 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2019-06-01 09:16:43,254 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_module_views.xml 
+2019-06-01 09:16:43,494 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2019-06-01 09:16:43,665 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/ir_module_module.xml 
+2019-06-01 09:16:43,817 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2019-06-01 09:16:43,828 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2019-06-01 09:16:43,858 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2019-06-01 09:16:43,908 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2019-06-01 09:16:43,968 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2019-06-01 09:16:44,016 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2019-06-01 09:16:44,095 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2019-06-01 09:16:44,137 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2019-06-01 09:16:44,193 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/wizard/base_update_translations_views.xml 
+2019-06-01 09:16:44,243 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2019-06-01 09:16:44,295 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/ir_actions_data.xml 
+2019-06-01 09:16:44,311 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2019-06-01 09:16:44,364 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/res_company_views.xml 
+2019-06-01 09:16:44,585 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/res_lang_views.xml 
+2019-06-01 09:16:44,691 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/res_partner_views.xml 
+2019-06-01 09:16:45,217 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/res_bank_views.xml 
+2019-06-01 09:16:45,377 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/res_country_views.xml 
+2019-06-01 09:16:45,553 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/res_currency_views.xml 
+2019-06-01 09:16:45,779 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/res_users_views.xml 
+2019-06-01 09:16:46,335 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/ir_property_views.xml 
+2019-06-01 09:16:46,451 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2019-06-01 09:16:46,491 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2019-06-01 09:16:46,600 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/views/onboarding_views.xml 
+2019-06-01 09:16:46,757 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/security/ir.model.access.csv 
+2019-06-01 09:16:47,130 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module base: loading demo 
+2019-06-01 09:16:47,131 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_company_demo.xml 
+2019-06-01 09:16:47,156 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_users_demo.xml 
+2019-06-01 09:16:47,745 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_partner_bank_demo.xml 
+2019-06-01 09:16:47,759 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_currency_rate_demo.xml 
+2019-06-01 09:16:48,274 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_bank_demo.xml 
+2019-06-01 09:16:48,285 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_partner_demo.xml 
+2019-06-01 09:16:49,648 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base/data/res_partner_image_demo.xml 
+2019-06-01 09:16:51,042 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: 1 modules loaded in 22.46s, 0 queries 
+2019-06-01 09:16:51,075 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: updating modules list 
+2019-06-01 09:16:51,076 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via n/a 
+2019-06-01 09:16:52,742 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_module: ALLOW access to module.button_upgrade on ['base'] to user __system__ #1 via n/a 
+2019-06-01 09:16:52,743 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_module: ALLOW access to module.update_list on ['base'] to user __system__ #1 via n/a 
+2019-06-01 09:16:53,543 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_module: ALLOW access to module.button_install on [] to user __system__ #1 via n/a 
+2019-06-01 09:16:53,567 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading 15 modules... 
+2019-06-01 09:16:53,732 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module web: creating or updating database tables 
+2019-06-01 09:16:55,425 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web/security/ir.model.access.csv 
+2019-06-01 09:16:55,444 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web/views/webclient_templates.xml 
+2019-06-01 09:16:55,927 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web/views/report_templates.xml 
+2019-06-01 09:16:56,353 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web/data/res_company.xml 
+2019-06-01 09:16:56,366 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web/data/report_layout.xml 
+2019-06-01 09:16:56,390 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module web: loading demo 
+2019-06-01 09:16:56,630 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module base_import: creating or updating database tables 
+2019-06-01 09:16:58,887 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2019-06-01 09:16:58,980 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading base_import/views/base_import_templates.xml 
+2019-06-01 09:16:59,102 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module base_import: loading demo 
+2019-06-01 09:16:59,329 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module web_cohort: creating or updating database tables 
+2019-06-01 09:17:01,171 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_cohort/views/assets.xml 
+2019-06-01 09:17:01,281 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module web_cohort: loading demo 
+2019-06-01 09:17:01,517 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module web_dashboard: creating or updating database tables 
+2019-06-01 09:17:03,390 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_dashboard/views/assets.xml 
+2019-06-01 09:17:03,530 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module web_dashboard: loading demo 
+2019-06-01 09:17:03,717 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module web_diagram: creating or updating database tables 
+2019-06-01 09:17:03,730 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_diagram/views/web_diagram_templates.xml 
+2019-06-01 09:17:03,847 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module web_diagram: loading demo 
+2019-06-01 09:17:03,998 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module web_editor: creating or updating database tables 
+2019-06-01 09:17:04,301 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2019-06-01 09:17:04,325 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_editor/views/editor.xml 
+2019-06-01 09:17:04,809 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_editor/views/iframe.xml 
+2019-06-01 09:17:04,865 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_editor/views/snippets.xml 
+2019-06-01 09:17:04,917 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module web_editor: loading demo 
+2019-06-01 09:17:05,033 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module web_enterprise: creating or updating database tables 
+2019-06-01 09:17:05,052 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_enterprise/views/webclient_templates.xml 
+2019-06-01 09:17:05,471 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module web_enterprise: loading demo 
+2019-06-01 09:17:05,480 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_translation: module web_enterprise: loading base translation file en for language en_US 
+2019-06-01 09:17:05,481 7 INFO dharshithasrimal-gfb-master-424633 odoo.tools.translate: loading /home/odoo/src/enterprise/web_enterprise/i18n/en.po 
+2019-06-01 09:17:05,590 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module web_gantt: creating or updating database tables 
+2019-06-01 09:17:05,603 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_gantt/views/web_gantt_templates.xml 
+2019-06-01 09:17:05,780 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module web_gantt: loading demo 
+2019-06-01 09:17:06,013 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module web_grid: creating or updating database tables 
+2019-06-01 09:17:07,899 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_grid/views/templates.xml 
+2019-06-01 09:17:08,044 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module web_grid: loading demo 
+2019-06-01 09:17:08,152 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module web_kanban_gauge: creating or updating database tables 
+2019-06-01 09:17:08,168 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_kanban_gauge/views/web_kanban_gauge_templates.xml 
+2019-06-01 09:17:08,333 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module web_kanban_gauge: loading demo 
+2019-06-01 09:17:08,441 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module web_settings_dashboard: creating or updating database tables 
+2019-06-01 09:17:08,488 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_settings_dashboard/views/dashboard_views.xml 
+2019-06-01 09:17:08,512 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_settings_dashboard/views/dashboard_templates.xml 
+2019-06-01 09:17:08,661 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module web_settings_dashboard: loading demo 
+2019-06-01 09:17:08,771 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module web_tour: creating or updating database tables 
+2019-06-01 09:17:08,833 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2019-06-01 09:17:08,858 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2019-06-01 09:17:08,885 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_tour/views/tour_templates.xml 
+2019-06-01 09:17:09,013 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2019-06-01 09:17:09,098 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module web_tour: loading demo 
+2019-06-01 09:17:09,100 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_tour/data/web_tour_demo.xml 
+2019-06-01 09:17:09,276 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module iap: creating or updating database tables 
+2019-06-01 09:17:09,344 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading iap/security/ir.model.access.csv 
+2019-06-01 09:17:09,372 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading iap/security/ir_rule.xml 
+2019-06-01 09:17:09,394 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading iap/views/assets.xml 
+2019-06-01 09:17:09,478 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading iap/views/iap_views.xml 
+2019-06-01 09:17:09,559 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module iap: loading demo 
+2019-06-01 09:17:09,675 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: module web_mobile: creating or updating database tables 
+2019-06-01 09:17:09,688 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_mobile/views/mobile_template.xml 
+2019-06-01 09:17:09,816 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading web_mobile/views/views.xml 
+2019-06-01 09:17:09,889 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Module web_mobile: loading demo 
+2019-06-01 09:17:09,913 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: 15 modules loaded in 16.35s, 0 queries 
+2019-06-01 09:17:10,187 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Modules loaded. 
+2019-06-01 09:17:10,190 7 INFO dharshithasrimal-gfb-master-424633 odoo.service.server: Initiating shutdown 
+2019-06-01 09:17:10,191 7 INFO dharshithasrimal-gfb-master-424633 odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 

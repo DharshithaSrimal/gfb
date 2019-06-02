@@ -1585,3 +1585,20 @@
 2019-06-02 12:55:45,487 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:55:45] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.007 0.012
 2019-06-02 12:56:35,634 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:56:35] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.006 0.012
 2019-06-02 12:57:25,762 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:57:25] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.006 0.011
+2019-06-02 12:58:15,881 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:58:15] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.005 0.011
+2019-06-02 12:59:06,014 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:59:06] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.006 0.012
+2019-06-02 12:59:56,169 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:59:56] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.006 0.014
+2019-06-02 13:00:01,913 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Post process payment transactions`. 
+2019-06-02 13:00:46,294 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 13:00:46] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.006 0.012
+2019-06-02 13:01:36,440 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 13:01:36] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.005 0.010
+2019-06-02 13:02:26,562 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 13:02:26] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.006 0.011
+2019-06-02 13:03:16,694 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 13:03:16] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.005 0.013
+2019-06-02 13:04:06,838 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 13:04:06] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.007 0.013
+2019-06-02 13:04:56,964 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 13:04:56] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.005 0.012
+2019-06-02 13:05:47,084 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 13:05:47] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.006 0.011
+2019-06-02 13:06:37,223 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 13:06:37] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.006 0.010
+2019-06-02 13:07:27,343 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 13:07:27] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.005 0.012
+2019-06-02 13:08:17,482 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 13:08:17] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.005 0.012
+2019-06-02 13:10:12,481 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Post process payment transactions`. 
+2019-06-02 13:10:25,885 7 INFO dharshithasrimal-gfb-master-424633 odoo.service.server: Initiating shutdown 
+2019-06-02 13:10:25,885 7 INFO dharshithasrimal-gfb-master-424633 odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 

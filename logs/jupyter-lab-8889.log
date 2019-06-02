@@ -1625,3 +1625,124 @@ TermSocket.open: Opened 1
       File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
         if self.stream.closed() and self.ping_callback is not None:
     AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:51:51.562 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607ce3a58>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:52:21.581 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607ce3a58>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:52:51.634 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607ce3a58>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:53:21.640 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607ce3a58>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:53:51.542 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607ce3a58>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:54:21.595 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607ce3a58>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:54:51.578 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607ce3a58>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:55:21.635 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607ce3a58>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:55:51.640 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607ce3a58>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+Websocket closed
+[I 12:56:16.437 WebshellApp] 302 GET /odoo-sh/webshell (10.0.88.146) 1.37ms
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 12:56:17.416 WebshellApp] EOF on FD 16; stopping reading
+[I 12:56:17.517 WebshellApp] Terminal 2 closed
+TermSocket.open: 2
+[I 12:56:17.667 WebshellApp] New terminal with specified name: 2
+TermSocket.open: Opened 2
+[E 12:56:21.557 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607ce3a58>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:56:47.431 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607cc1d30>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:56:47.669 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607cc1ba8>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:56:51.558 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607ce3a58>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:57:17.492 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607cc1d30>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:57:17.667 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607cc1ba8>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'
+[E 12:57:21.542 WebshellApp] Exception in callback <bound method WebSocketMixin.send_ping of <notebook.terminal.handlers.TermSocket object at 0x7f4607ce3a58>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/dist-packages/tornado/ioloop.py", line 907, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.6/dist-packages/notebook/base/zmqhandlers.py", line 175, in send_ping
+        if self.stream.closed() and self.ping_callback is not None:
+    AttributeError: 'NoneType' object has no attribute 'closed'

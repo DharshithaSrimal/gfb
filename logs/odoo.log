@@ -1578,3 +1578,10 @@
 2019-06-02 12:50:51,575 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: At least one model cache has been invalidated, signaling through the database. 
 2019-06-02 12:50:51,581 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Post process payment transactions`. 
 2019-06-02 12:51:34,643 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:51:34] "POST /longpolling/poll HTTP/1.0" 200 - 20 0.019 0.018
+2019-06-02 12:52:24,956 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:52:24] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.007 0.012
+2019-06-02 12:53:15,118 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:53:15] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.009 0.012
+2019-06-02 12:54:05,234 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:54:05] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.005 0.012
+2019-06-02 12:54:55,355 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:54:55] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.006 0.013
+2019-06-02 12:55:45,487 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:55:45] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.007 0.012
+2019-06-02 12:56:35,634 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:56:35] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.006 0.012
+2019-06-02 12:57:25,762 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:57:25] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.006 0.011

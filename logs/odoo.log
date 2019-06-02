@@ -1466,3 +1466,115 @@
 2019-06-02 04:35:05,949 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 123.231.124.167 - - [02/Jun/2019 04:35:05] "POST /longpolling/poll HTTP/1.0" 200 - 7 0.006 0.011
 2019-06-02 04:37:10,726 7 INFO dharshithasrimal-gfb-master-424633 odoo.service.server: Initiating shutdown 
 2019-06-02 04:37:10,726 7 INFO dharshithasrimal-gfb-master-424633 odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2019-06-02 07:29:19,869 7 INFO ? odoo.service.server: HTTP service (werkzeug) running through socket activation 
+2019-06-02 07:29:19,928 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading 1 modules... 
+2019-06-02 07:29:20,003 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: 1 modules loaded in 0.07s, 0 queries 
+2019-06-02 07:29:20,077 7 INFO ? odoo.http: HTTP Configuring static files 
+2019-06-02 07:29:20,119 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading 68 modules... 
+2019-06-02 07:29:21,372 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: 68 modules loaded in 1.25s, 0 queries 
+2019-06-02 07:29:22,052 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Modules loaded. 
+2019-06-02 07:29:22,083 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_http: Generating routing map 
+2019-06-02 07:29:22,175 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Mail: Email Queue Manager`. 
+2019-06-02 07:29:22,235 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Partner Autocomplete : Sync with remote DB`. 
+2019-06-02 07:29:22,252 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Snailmail: process letters queue`. 
+2019-06-02 07:29:22,270 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Calendar: Event Reminder`. 
+2019-06-02 07:29:22,303 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: At least one model cache has been invalidated, signaling through the database. 
+2019-06-02 07:29:22,308 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Post process payment transactions`. 
+2019-06-02 07:29:22,333 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Account: Journal online sync`. 
+2019-06-02 07:29:22,358 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 10.0.83.50 - - [02/Jun/2019 07:29:22] "POST /xmlrpc/2/object HTTP/1.1" 200 - 78 0.094 2.163
+2019-06-02 07:29:22,954 7 INFO dharshithasrimal-gfb-master-424633 odoo.service.server: Initiating shutdown 
+2019-06-02 07:29:22,954 7 INFO dharshithasrimal-gfb-master-424633 odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2019-06-02 10:04:03,244 7 INFO ? odoo: Odoo version 12.0 
+2019-06-02 10:04:03,245 7 INFO ? odoo: Using configuration file at /home/odoo/.config/odoo/odoo.conf 
+2019-06-02 10:04:03,245 7 INFO ? odoo: addons paths: ['/home/odoo/data/addons/12.0', '/home/odoo/src/odoo/addons', '/home/odoo/src/odoo/odoo/addons', '/home/odoo/src/enterprise', '/home/odoo/src/themes'] 
+2019-06-02 10:04:03,246 7 INFO ? odoo: database: p_dharshithasrimal_gfb_master_424633@192.168.1.1:5432 
+2019-06-02 10:04:03,261 7 INFO ? odoo: Could not determine if database dharshithasrimal-gfb-master-424633 exists, skipping auto-creation: permission denied for relation pg_database
+ 
+2019-06-02 10:04:03,473 7 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2019-06-02 10:04:03,894 7 INFO ? odoo.service.server: Watching addons folder /home/odoo/data/addons/12.0 
+2019-06-02 10:04:03,894 7 INFO ? odoo.service.server: Watching addons folder /home/odoo/src/odoo/addons 
+2019-06-02 10:04:03,894 7 INFO ? odoo.service.server: Watching addons folder /home/odoo/src/odoo/odoo/addons 
+2019-06-02 10:04:03,894 7 INFO ? odoo.service.server: Watching addons folder /home/odoo/src/enterprise 
+2019-06-02 10:04:03,894 7 INFO ? odoo.service.server: Watching addons folder /home/odoo/src/themes 
+2019-06-02 10:04:04,453 7 INFO ? odoo.service.server: AutoReload watcher running with inotify 
+2019-06-02 10:04:04,455 7 INFO ? odoo.service.server: HTTP service (werkzeug) running through socket activation 
+2019-06-02 10:04:04,491 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading 1 modules... 
+2019-06-02 10:04:04,570 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: 1 modules loaded in 0.08s, 0 queries 
+2019-06-02 10:04:04,688 7 INFO ? odoo.http: HTTP Configuring static files 
+2019-06-02 10:04:04,697 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading 68 modules... 
+2019-06-02 10:04:05,998 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: 68 modules loaded in 1.30s, 0 queries 
+2019-06-02 10:04:06,665 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Modules loaded. 
+2019-06-02 10:04:06,692 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_http: Generating routing map 
+2019-06-02 10:04:06,783 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 35.198.208.238 - - [02/Jun/2019 10:04:06] "GET /web/webclient/version_info HTTP/1.0" 200 - 1 0.001 2.019
+2019-06-02 10:05:06,755 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Mail: Email Queue Manager`. 
+2019-06-02 10:05:06,822 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Partner Autocomplete : Sync with remote DB`. 
+2019-06-02 10:05:06,840 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Snailmail: process letters queue`. 
+2019-06-02 10:05:06,861 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Calendar: Event Reminder`. 
+2019-06-02 10:05:06,907 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: At least one model cache has been invalidated, signaling through the database. 
+2019-06-02 10:05:06,914 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Post process payment transactions`. 
+2019-06-02 10:05:06,936 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Account: Journal online sync`. 
+2019-06-02 10:05:06,957 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Base: Auto-vacuum internal data`. 
+2019-06-02 10:05:07,021 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_attachment: filestore gc 8 checked, 1 removed 
+2019-06-02 10:05:07,285 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_autovacuum: GC'd 0 user log entries 
+2019-06-02 10:05:07,290 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Digest Emails`. 
+2019-06-02 10:05:07,316 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Account; Reverse entries`. 
+2019-06-02 10:05:07,345 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Currency: rate update`. 
+2019-06-02 10:05:07,375 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Mail: Notify channel moderators`. 
+2019-06-02 10:06:14,391 7 INFO dharshithasrimal-gfb-master-424633 odoo.service.server: Initiating shutdown 
+2019-06-02 10:06:14,391 7 INFO dharshithasrimal-gfb-master-424633 odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2019-06-02 12:49:47,940 7 INFO ? odoo: Odoo version 12.0 
+2019-06-02 12:49:47,940 7 INFO ? odoo: Using configuration file at /home/odoo/.config/odoo/odoo.conf 
+2019-06-02 12:49:47,940 7 INFO ? odoo: addons paths: ['/home/odoo/data/addons/12.0', '/home/odoo/src/odoo/addons', '/home/odoo/src/odoo/odoo/addons', '/home/odoo/src/enterprise', '/home/odoo/src/themes'] 
+2019-06-02 12:49:47,941 7 INFO ? odoo: database: p_dharshithasrimal_gfb_master_424633@192.168.1.1:5432 
+2019-06-02 12:49:47,956 7 INFO ? odoo: Could not determine if database dharshithasrimal-gfb-master-424633 exists, skipping auto-creation: permission denied for relation pg_database
+ 
+2019-06-02 12:49:48,162 7 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2019-06-02 12:49:48,593 7 INFO ? odoo.service.server: Watching addons folder /home/odoo/data/addons/12.0 
+2019-06-02 12:49:48,593 7 INFO ? odoo.service.server: Watching addons folder /home/odoo/src/odoo/addons 
+2019-06-02 12:49:48,593 7 INFO ? odoo.service.server: Watching addons folder /home/odoo/src/odoo/odoo/addons 
+2019-06-02 12:49:48,593 7 INFO ? odoo.service.server: Watching addons folder /home/odoo/src/enterprise 
+2019-06-02 12:49:48,593 7 INFO ? odoo.service.server: Watching addons folder /home/odoo/src/themes 
+2019-06-02 12:49:49,184 7 INFO ? odoo.service.server: AutoReload watcher running with inotify 
+2019-06-02 12:49:49,187 7 INFO ? odoo.service.server: HTTP service (werkzeug) running through socket activation 
+2019-06-02 12:49:49,221 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading 1 modules... 
+2019-06-02 12:49:49,295 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: 1 modules loaded in 0.07s, 0 queries 
+2019-06-02 12:49:49,411 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: loading 68 modules... 
+2019-06-02 12:49:49,491 7 INFO ? odoo.http: HTTP Configuring static files 
+2019-06-02 12:49:50,712 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: 68 modules loaded in 1.30s, 0 queries 
+2019-06-02 12:49:51,381 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.loading: Modules loaded. 
+2019-06-02 12:49:51,409 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_http: Generating routing map 
+2019-06-02 12:49:51,505 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:51] "GET / HTTP/1.0" 200 - 3 0.006 1.889
+2019-06-02 12:49:52,657 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:52] "GET /web HTTP/1.0" 200 - 452 0.454 0.556
+2019-06-02 12:49:53,674 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:53] "GET /web/webclient/qweb?mods=base,web,bus,web_tour,mail,sales_team,calendar,utm,contacts,portal,digest,crm,product,account,payment,sale,sale_management,account_bank_statement_import,base_import,account_bank_statement_import_csv,account_bank_statement_import_ofx,account_check_printing,account_online_sync,account_plaid,account_yodlee,auth_signup,web_settings_dashboard,iap,l10n_generic_coa,l10n_us,l10n_us_check_printing,mail_bot,mail_enterprise,ocn_client,partner_autocomplete,payment_transfer,sms,snailmail,web_cohort,web_dashboard,web_diagram,web_editor,web_enterprise,web_gantt,web_grid,web_kanban_gauge,web_mobile,web_studio,web_unsplash HTTP/1.0" 304 - 1 0.001 0.158
+2019-06-02 12:49:53,788 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:53] "POST /web/dataset/call HTTP/1.0" 200 - 12 0.010 0.013
+2019-06-02 12:49:53,866 7 INFO ? werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:53] "GET /web_enterprise/static/src/fonts/Roboto/Roboto-Regular-webfont.woff HTTP/1.0" 304 - - - -
+2019-06-02 12:49:53,929 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:53] "POST /web/webclient/translations HTTP/1.0" 200 - 7 0.015 0.009
+2019-06-02 12:49:54,196 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:54] "POST /mail/init_messaging HTTP/1.0" 200 - 50 0.133 0.038
+2019-06-02 12:49:54,594 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:54] "POST /web/dataset/call_kw/ir.ui.menu/load_menus HTTP/1.0" 200 - 257 0.275 0.263
+2019-06-02 12:49:55,115 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:55] "POST /web/dataset/call_kw/res.users/systray_get_activities HTTP/1.0" 200 - 18 0.037 0.022
+2019-06-02 12:49:55,207 7 INFO ? werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:55] "GET /web_enterprise/static/src/fonts/Roboto/Roboto-Bold-webfont.woff HTTP/1.0" 304 - - - -
+2019-06-02 12:49:55,241 7 INFO ? werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:55] "GET /web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.0" 304 - - - -
+2019-06-02 12:49:55,249 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:55] "POST /web/dataset/call_kw/res.users/read HTTP/1.0" 200 - 2 0.002 0.008
+2019-06-02 12:49:55,290 7 INFO ? werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:55] "GET /web/static/src/img/logo_inverse_white_206px.png HTTP/1.0" 304 - - - -
+2019-06-02 12:49:55,291 7 INFO ? werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:55] "GET /web_studio/static/src/img/studio_icon_small.png HTTP/1.0" 304 - - - -
+2019-06-02 12:49:55,294 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:55] "GET /web/image?model=res.users&field=image_small&id=2 HTTP/1.0" 304 - 15 0.015 0.024
+2019-06-02 12:49:55,347 7 INFO ? werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:55] "GET /crm/static/description/icon.png HTTP/1.0" 304 - - - -
+2019-06-02 12:49:55,377 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:55] "POST /calendar/notify HTTP/1.0" 200 - 3 0.012 0.008
+2019-06-02 12:49:55,386 7 INFO ? werkzeug: 175.157.44.164 - - [02/Jun/2019 12:49:55] "GET /web_enterprise/static/src/img/home-menu-bg-overlay.svg HTTP/1.0" 304 - - - -
+2019-06-02 12:50:00,553 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:50:00] "POST /web/action/load HTTP/1.0" 200 - 20 0.050 0.027
+2019-06-02 12:50:00,690 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:50:00] "POST /web_studio/get_studio_view_arch HTTP/1.0" 200 - 6 0.006 0.009
+2019-06-02 12:50:00,979 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:50:00] "POST /web/dataset/call_kw/x_orders/load_views HTTP/1.0" 200 - 49 0.037 0.146
+2019-06-02 12:50:01,099 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:50:01] "POST /web/dataset/search_read HTTP/1.0" 200 - 4 0.006 0.006
+2019-06-02 12:50:01,596 7 INFO ? werkzeug: 175.157.44.164 - - [02/Jun/2019 12:50:01] "GET /web_enterprise/static/src/fonts/Roboto/Roboto-Medium-webfont.woff HTTP/1.0" 304 - - - -
+2019-06-02 12:50:06,720 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:50:06] "POST /web_studio/chatter_allowed HTTP/1.0" 200 - 1 0.001 0.008
+2019-06-02 12:50:06,726 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:50:06] "POST /web_studio/get_studio_view_arch HTTP/1.0" 200 - 5 0.006 0.012
+2019-06-02 12:50:06,877 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:50:06] "POST /web/dataset/call_kw/x_orders/load_views HTTP/1.0" 200 - 37 0.024 0.028
+2019-06-02 12:50:07,004 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:50:07] "POST /web/dataset/call_kw/x_orders/default_get HTTP/1.0" 200 - 2 0.011 0.008
+2019-06-02 12:50:44,498 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:50:44] "POST /longpolling/poll HTTP/1.0" 200 - 11 0.018 0.014
+2019-06-02 12:50:51,462 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Mail: Email Queue Manager`. 
+2019-06-02 12:50:51,496 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Partner Autocomplete : Sync with remote DB`. 
+2019-06-02 12:50:51,514 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Snailmail: process letters queue`. 
+2019-06-02 12:50:51,535 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Calendar: Event Reminder`. 
+2019-06-02 12:50:51,575 7 INFO dharshithasrimal-gfb-master-424633 odoo.modules.registry: At least one model cache has been invalidated, signaling through the database. 
+2019-06-02 12:50:51,581 7 INFO dharshithasrimal-gfb-master-424633 odoo.addons.base.models.ir_cron: Starting job `Post process payment transactions`. 
+2019-06-02 12:51:34,643 7 INFO dharshithasrimal-gfb-master-424633 werkzeug: 175.157.44.164 - - [02/Jun/2019 12:51:34] "POST /longpolling/poll HTTP/1.0" 200 - 20 0.019 0.018
